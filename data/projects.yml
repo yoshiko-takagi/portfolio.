@@ -3,18 +3,18 @@
   image: projects/miraihabit.png
   url: https://www.miraihabit.site/
   role: UI/UX Design + Project Manager + Fullstack Developer
-  image: skills/rubyonrails.png
+  skills: Ruby on Rails | HTML5 | CSS | Javascript | PostgreSQL | Github | Figma | Heroku
 
 - name: Tradys
   description: Tradys is a web application for users to search and book authentic traditional experience and events around the world. Look for an experience through the searchbar, on the map or through the homepage list. For this class project, we built MVP in 5 days in a team of four.
   image: projects/tradys.png
   url: https://tradys.herokuapp.com/
   role: UI/UX Design + Project Manager + Fullstack Developer
-  image: skills/rubyonrails.png
+  skills: Ruby on Rails | HTML5 | CSS | Javascript | PostgreSQL | Github | Figma | Heroku
 
 - name: Movie Watchlist
   description: A simple website to create watch lists and add movies into the list.
   image: projects/watchlist.png
   url: https://rails-watch-list-yoshiko.herokuapp.com/
   role: Fullstack Developer
-  image: skills/rubyonrails.png
+  skills: Ruby on Rails | HTML5 | CSS | Github | Heroku
