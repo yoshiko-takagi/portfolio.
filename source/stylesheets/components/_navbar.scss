@@ -1,12 +1,31 @@
-.navbar-lewagon {
+.navbar {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   justify-content: space-between;
   background: white;
+  position: sticky;
+  top: 0;
+  z-index: 9000;
 }
 
-.navbar-lewagon .navbar-collapse {
+.navbar-logo {
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.navbar-right {
+  color: black;
+  font-size: 20px;
+  display: inline;
+  justify-content: space-between;
+}
+
+.navbar .navbar-collapse {
   flex-grow: 0;
 }
 
-.navbar-lewagon .navbar-brand img {
+.navbar .navbar-brand img {
   width: 40px;
 }
