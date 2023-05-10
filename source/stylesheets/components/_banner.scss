@@ -1,7 +1,11 @@
 .banner {
-  margin: 0 auto;
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 200px;
   width: 100%;
+  margin: 0 auto;
+}
+
+.banner .bg-hero {
+  background-image: linear-gradient(rgb(71, 100, 130,0.3)), (rgb(71, 100, 130,1));
 }
