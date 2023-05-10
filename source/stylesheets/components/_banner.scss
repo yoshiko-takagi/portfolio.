@@ -1,11 +1,11 @@
 .banner {
+  background-image: linear-gradient(rgba(71, 100, 130,0.3)), (rgba(71, 100, 130,1));
   background-size: cover;
   background-position: center;
-  height: 200px;
+  height: 400px;
   width: 100%;
   margin: 0 auto;
-}
-
-.banner .bg-hero {
-  background-image: linear-gradient(rgb(71, 100, 130,0.3)), (rgb(71, 100, 130,1));
+  padding: 0, 0;
+  color: white;
+  text-shadow: 2px 2px 2px rgba(45, 44, 44, 0.5);
 }
