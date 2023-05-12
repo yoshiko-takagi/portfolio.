@@ -9,6 +9,7 @@
   overflow: hidden;
   width: 100%;
   height: 100%;
+  border-radius: 10px;
   background: #f0eae4;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   display: flex;
@@ -20,6 +21,7 @@
   width: 100%;
   height: 280px;
   object-fit: fill;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
 }
 
 .card-product h2 {
