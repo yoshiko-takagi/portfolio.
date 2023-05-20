@@ -8,15 +8,18 @@
 }
 
 .navbar-logo {
-  color: rgb(86, 96, 97);
-  font-family: $body-font;
-  font-size: 24px;
-  font-weight: 100;
   margin-left: 70px;
 }
 
 .navbar-logo h3 {
   text-align: none;
+  color: rgb(86, 96, 97);
+  font-size: 24px;
+  font-weight: 100;
+}
+
+.navbar-logo a {
+  text-decoration: none;
 }
 
 .navbar-right {
@@ -30,7 +33,6 @@
   display: flex;
   justify-content: space-around;
   list-style: none;
-  text-decoration: none;
   margin-top: 0.5rem;
 }
 
